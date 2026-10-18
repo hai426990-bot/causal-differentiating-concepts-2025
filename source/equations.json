@@ -1,0 +1,7 @@
+[
+  {"number":1,"page":4,"latex":"\\mathcal M_{z_k^{S'}\\leftarrow z_l^{S'}}(x_k)\\ne c_l,\\quad \\overline{S'}\\cap S\\ne\\varnothing","meaning":"必要条件；对任意相关组间样本，不完整替换必要坐标就不能到达目标组。"},
+  {"number":2,"page":4,"latex":"\\mathcal M_{z_k^{S}\\leftarrow z_l^{S}}(x_k)=c_l","meaning":"充分条件；存在某对样本交换S后能到达目标组。"},
+  {"number":3,"page":4,"latex":"\\min_{\\tau,h}\\mathbb E_{p(x,y)}[-\\log h(\\tau(g(x)))_y]","meaning":"行为类别交叉熵；原文y的符号在此应作为类别索引理解。"},
+  {"number":4,"page":4,"latex":"\\min_{\\tau,\\delta}\\sum_{k,l}\\left[\\min_{x_i\\in C_k,\\,x_j\\in C_l}\\mathbb E\\left[\\|\\tau(g(x_j))-\\tau(g(x_i))-\\widehat\\delta_{kl}\\|^2\\right]\\right]","meaning":"组间共享单稀疏平移的平方残差；原PDF的2为上标平方，附带文字覆盖约束。"},
+  {"number":5,"page":17,"latex":"A e_r=\\frac{c_s}{b_r}e_s","meaning":"在已找对真实纯坐标配对的分支中，A的第r列只有一处非零。"}
+]
