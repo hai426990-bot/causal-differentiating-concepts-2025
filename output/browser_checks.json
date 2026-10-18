@@ -1,0 +1,200 @@
+{
+  "site": "local loopback",
+  "passed": 10,
+  "total": 10,
+  "tests": [
+    {
+      "name": "全书加载与数学",
+      "passed": true,
+      "detail": {
+        "chapters": 16,
+        "current": "00_basics",
+        "all": true,
+        "formulas": 539,
+        "mathErrors": 0,
+        "glossaryTerms": 82,
+        "termLinks": 239,
+        "figures": 25,
+        "embeddedImages": 25,
+        "ready": true
+      }
+    },
+    {
+      "name": "25幅图片离线嵌入",
+      "passed": true,
+      "detail": [
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "ok": true,
+          "embedded": true
+        }
+      ]
+    },
+    {
+      "name": "全书DOM ID唯一",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "桌面无整页横向溢出",
+      "passed": true,
+      "detail": false
+    },
+    {
+      "name": "中英术语精确查询",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "title": "因果区分概念"
+      }
+    },
+    {
+      "name": "词典稳定锚点",
+      "passed": true,
+      "detail": {
+        "hash": "#14_glossary~term-cdc",
+        "term": true
+      }
+    },
+    {
+      "name": "图片放大交互",
+      "passed": true,
+      "detail": {
+        "opened": true,
+        "zoom": "150%",
+        "closed": true
+      }
+    },
+    {
+      "name": "390px移动布局",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "mathErrors": 0,
+        "menuVisible": true
+      }
+    },
+    {
+      "name": "交互实验室加载",
+      "passed": true,
+      "detail": {
+        "ready": true,
+        "panels": 4,
+        "mathErrors": 0,
+        "rotation22": 4.68629150101524,
+        "dci80": {
+          "D": 0.2780719051126377,
+          "C": 0.2780719051126377
+        }
+      }
+    },
+    {
+      "name": "交互计算正确",
+      "passed": true,
+      "detail": {
+        "zero": 4,
+        "aligned": 8,
+        "rotation": 4.68629150101524,
+        "expected": 4.686291501015239,
+        "d": 0.2780719051126377,
+        "dom": "D（特征专一性） = 1.000000\nC（因素集中度） = 1.000000\nI（测试因素预测） = 未提供，不能由R单独计算\n总重要性 = 2.000"
+      }
+    }
+  ]
+}
