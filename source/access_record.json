@@ -1,0 +1,13 @@
+{
+  "paper_version": "NeurIPS 2025 final proceedings PDF, 29 pages",
+  "official_code_status": "not_obtained",
+  "checks": [
+    {"url":"https://proceedings.neurips.cc/paper_files/paper/2025/hash/5faf0f518f39e4d6b2b595e3ca2fe0c4-Abstract-Conference.html","result":"paper available; no code or supplemental download link shown"},
+    {"url":"https://api.github.com/users/navitagoyal/repos?per_page=100","result":"two public repositories listed; neither is this paper"},
+    {"url":"https://api.github.com/search/repositories?q=%22causal+differentiating%22","result":"zero repositories returned for this exact search"},
+    {"url":"https://openreview.net/attachment?id=Zf6Oj5x9sE&name=supplementary_material","result":"browser verification page, not supplementary code"}
+  ],
+  "interpretation": "This does not prove that the authors never released code. It records what was accessible during this work. Independent code must not be called official reproduction.",
+  "paid_cloud_or_model_api_used": false,
+  "paper_license": "not independently confirmed; public site links to the official full PDF instead of mirroring the complete PDF; figure excerpts are attributed and used for detailed commentary"
+}
