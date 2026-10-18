@@ -1,0 +1,401 @@
+{
+  "passed_model_runs": 63,
+  "model_runs_expected": 63,
+  "dataset_checks": 18,
+  "numeric_entries_compared": 3636804,
+  "maximum_absolute_difference": 0.0,
+  "evaluator_refits": 63,
+  "theory_diagnostics": 11,
+  "errors": [],
+  "elapsed_verification_seconds": 301.6367358000007,
+  "checks": [
+    {
+      "id": "synthetic:2:linear:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:linear:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:sparse:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:2:dense:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:linear:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:sparse:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "synthetic:3:dense:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:11:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:11:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:11:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:23:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:23:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:23:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:37:ae",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:37:pred",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "text:text:37:cdc",
+      "passed": true,
+      "evaluator_refitted": true
+    },
+    {
+      "id": "dataset:d2_dense_seed11",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_dense_seed23",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_dense_seed37",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_linear_seed11",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_linear_seed23",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_linear_seed37",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_sparse_seed11",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_sparse_seed23",
+      "passed": true
+    },
+    {
+      "id": "dataset:d2_sparse_seed37",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_dense_seed11",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_dense_seed23",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_dense_seed37",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_linear_seed11",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_linear_seed23",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_linear_seed37",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_sparse_seed11",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_sparse_seed23",
+      "passed": true
+    },
+    {
+      "id": "dataset:d3_sparse_seed37",
+      "passed": true
+    }
+  ],
+  "scope": "Raw saved test predictions, importance matrices, refitted train-only evaluators, all-run aggregates and exploratory tests; not a proof of general identifiability, not original author data verification"
+}
