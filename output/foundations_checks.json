@@ -1,0 +1,78 @@
+{
+  "passed": 18,
+  "total": 18,
+  "checks": [
+    {
+      "name": "82个完整中英词条",
+      "passed": true
+    },
+    {
+      "name": "CDC英文精确搜索",
+      "passed": true
+    },
+    {
+      "name": "log-odds搜索",
+      "passed": true
+    },
+    {
+      "name": "density不会误跳到density ratio",
+      "passed": true
+    },
+    {
+      "name": "原有概念词条已改为本篇中介概念",
+      "passed": true
+    },
+    {
+      "name": "矩阵乘法手算",
+      "passed": true
+    },
+    {
+      "name": "交叉熵手算",
+      "passed": true
+    },
+    {
+      "name": "Softmax 1:3概率",
+      "passed": true
+    },
+    {
+      "name": "二维样本划分",
+      "passed": true
+    },
+    {
+      "name": "文本平衡与划分",
+      "passed": true
+    },
+    {
+      "name": "平方范数不是欧氏长度",
+      "passed": true
+    },
+    {
+      "name": "最佳单轴残差",
+      "passed": true
+    },
+    {
+      "name": "旋转反例的精确值",
+      "passed": true
+    },
+    {
+      "name": "尺度缩放平方",
+      "passed": true
+    },
+    {
+      "name": "DCI 80/20熵例",
+      "passed": true
+    },
+    {
+      "name": "三种子的样本SD",
+      "passed": true
+    },
+    {
+      "name": "五个编号公式均有独立清单",
+      "passed": true
+    },
+    {
+      "name": "16节完整且生成词典锚点全覆盖",
+      "passed": true
+    }
+  ]
+}
