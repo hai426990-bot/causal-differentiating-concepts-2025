@@ -1,0 +1,42 @@
+{
+  "passed": 9,
+  "total": 9,
+  "checks": [
+    {
+      "name": "章节、词典、图像、公式数",
+      "passed": true
+    },
+    {
+      "name": "全原图表及公式截图均有图注",
+      "passed": true
+    },
+    {
+      "name": "章节内链均指向存在章节",
+      "passed": true
+    },
+    {
+      "name": "原图节选清单和图像散列匹配",
+      "passed": true
+    },
+    {
+      "name": "两份HTML无外部脚本和样式依赖",
+      "passed": true
+    },
+    {
+      "name": "全部63次结果与评价器经重算",
+      "passed": true
+    },
+    {
+      "name": "基础与理论核验均通过",
+      "passed": true
+    },
+    {
+      "name": "浏览器交互与移动端检查均通过",
+      "passed": true
+    },
+    {
+      "name": "PDF与ZIP隐私检查",
+      "passed": true
+    }
+  ]
+}
